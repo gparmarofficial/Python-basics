@@ -1,2 +1,3 @@
-#i am learning how to print
-print("hello world")
+print("Welcome to the world of programming")
+#print42
+print(42)
