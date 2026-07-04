@@ -1,0 +1,13 @@
+#storing the names AND bds in variables 
+f1 = "Lena: October 13"
+f2 = "Sarah: March 29"
+f3 = "Swara: August 17"
+f4 = "Mia : March 6"
+f5 = "Romy: August 7"
+
+#printing each variable
+print(f1)
+print(f2)
+print(f3)
+print(f4)
+print(f5)
