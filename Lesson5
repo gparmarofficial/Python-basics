@@ -1,0 +1,34 @@
+#activity1
+
+#input number
+num = float(input("Enter a number: "))
+
+if(num >= 0 ):
+    print("the number is positive.")
+else: 
+    print("the number is negative.")
+    
+#activity2
+cost_price = 100
+selling_price = 120
+ # determine profit or loss
+if selling_price > cost_price:
+  profit = selling_price - cost_price
+  print("profit of",profit,"rs")
+else:
+    print(" loss of ",cost_price-selling_price)
+
+#activity3
+number = float(input("Enter a number: "))
+if number > 15:
+    print("the number is greaterthan 15.")
+else :
+    print ("the number is smaller than 15.")
+    
+#activity4
+number = int(input("Enter an integer" ))
+
+if number % 2==0:
+    print("the number is even")
+else:
+    print("the number is odd")
